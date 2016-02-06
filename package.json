@@ -1,0 +1,23 @@
+{
+  "name": "apistub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiStubApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulseagrave/apiStub.git"
+  },
+  "author": "PSeagrave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulseagrave/apiStub/issues"
+  },
+  "homepage": "https://github.com/paulseagrave/apiStub#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4"
+  }
+}
